@@ -1,0 +1,20 @@
+{
+    "telemetry.enableTelemetry": false,
+    "gitlens.advanced.telemetry.enabled": false,
+    "terraform.telemetry.enabled": false,
+    "files.insertFinalNewline": true,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 1,
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "git-commit",
+        "html",
+        "json",
+        "jsonc",
+        "markdown",
+        "plaintext",
+        "restructuredtext"
+    ],
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true
+}
