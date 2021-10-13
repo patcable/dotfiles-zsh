@@ -1,4 +1,3 @@
-export ZSH=/Users/cable/.oh-my-zsh
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 ZSH_THEME="dieter"
 DISABLE_UNTRACKED_FILES_DIRTY="true"
