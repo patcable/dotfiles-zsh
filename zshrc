@@ -6,6 +6,7 @@ plugins=(git bundler encode64 macos chruby history)
 source $ZSH/oh-my-zsh.sh
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 test -e "${HOME}/dotfiles-ts/desktop-zshrc" && source "${HOME}/dotfiles-ts/desktop-zshrc"
+test -e "${HOME}/src/dotfiles-pers/zshrc" && source "${HOME}/src/dotfiles-pers/zshrc"
 test -e "/opt/homebrew/bin/brew" && eval "$(/opt/homebrew/bin/brew shellenv)"
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
